@@ -20,7 +20,7 @@
     "redux-saga": "^0.14.6"
   },
   "devDependencies": {
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "npm-run-all": "^4.0.2",
     "react-scripts": "0.9.5"
   },
