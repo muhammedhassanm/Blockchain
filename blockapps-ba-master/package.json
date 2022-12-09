@@ -24,7 +24,7 @@
     "co-mocha": "^1.2.0",
     "cors": "^2.8.1",
     "expect": "latest",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "mocha": "^3.4.2"
   },
   "repository": {
