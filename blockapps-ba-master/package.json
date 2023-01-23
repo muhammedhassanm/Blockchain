@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/blockapps/blockapps-ba#readme",
   "devDependencies": {
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.3.0",
     "mocha": "^3.3.0"
   }
 }
